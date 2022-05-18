@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "minhafonte";
+    src: url("./fonte/alexbrush-regular-webfont.woff2");
+  }
+
+    html{
+        font-family: "minhafonte", sans-serif;
+    }
